@@ -1,6 +1,7 @@
 # ThinkNote
 
 Source code for our paper : Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling
+
 We are currently optimizing the code and have uploaded the original version.
 
 ## Quick Start
