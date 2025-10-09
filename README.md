@@ -1,8 +1,6 @@
-# ActiveRAG: Autonomously Knowledge Assimilation and Accommodation through Retrieval-Augmented Agents
+# ThinkNote
 
-Source code for our paper :  
-***[ActiveRAG: Autonomously Knowledge Assimilation and Accommodation through Retrieval-Augmented Agents](https://arxiv.org/abs/2402.13547)***
-
+Source code for our paper : Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling
 We are currently optimizing the code and have uploaded the original version.
 
 ## Quick Start
@@ -10,8 +8,8 @@ We are currently optimizing the code and have uploaded the original version.
 1️⃣ Install from git
 
 ```bash
-git clone https://github.com/OpenMatch/ActiveRAG
-cd ActiveRAG
+git clone https://github.com/OpenMatch/ThinkNote
+cd ThinkNote
 ```
 
 2️⃣ Install the necessary packages
@@ -49,14 +47,10 @@ python -m scripts.evaluate --dataset nq --topk 5
 ## Citation
 
 ```
-@article{xu2024activerag,
-  title={ActiveRAG: Autonomously Knowledge Assimilation and Accommodation through Retrieval-Augmented Agents},
+@article{xu2024thinknote,
+  title={ThinkNote: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling},
   author={Xu, Zhipeng and Liu, Zhenghao and Yan, Yukun and Wang, Shuo and Yu, Shi and Zeng, Zheni and Xiao, Chaojun and Liu, Zhiyuan and Yu, Ge and Xiong, Chenyan},
   journal={arXiv preprint arXiv:2402.13547},
   year={2024}
 }
 ```
-
-## Contact Us
-
-If you have questions, suggestions, and bug reports, please send a email to us, we will try our best to help you. 
